@@ -8,5 +8,5 @@ This repository provides a framework for building a custom question-answering ag
 
 - Local document retrieval from pre-indexed sources using embeddings.
 - Web search integration if the retrieved documents are insufficient.
--Grading and filtering of documents based on their relevance to the user's query.
--Generation of short, concise answers based on the most relevant documents.
+- Grading and filtering of documents based on their relevance to the user's query.
+- Generation of short, concise answers based on the most relevant documents.
